@@ -16,7 +16,7 @@ function UserAdmin() {
           <div className="max-w-sm mx-auto bg-white rounded-md overflow-hidden shadow-md flex flex-col justify-center items-center">
             <img
               className=" object-cover h-20 w-20"
-              src="../../../public/Images/userAdmin/open-book.svg"
+              src="Images/userAdmin/open-book.svg"
               alt="image"
             />
             <div className="p-2 text-center">
@@ -34,7 +34,7 @@ function UserAdmin() {
           <div className="max-w-sm mx-auto bg-white rounded-md overflow-hidden shadow-md flex flex-col justify-center items-center">
             <img
               className=" object-cover h-20 w-20"
-              src="../../../public/Images/userAdmin/Frame (1).png"
+              src="Images/userAdmin/Frame (1).png"
               alt="image"
             />
             <div className="p-2 text-center">
@@ -52,7 +52,7 @@ function UserAdmin() {
           <div className="max-w-sm mx-auto bg-white rounded-md overflow-hidden shadow-md flex flex-col justify-center items-center">
             <img
               className=" object-cover h-20 w-20"
-              src="../../../public/Images/userAdmin/database.png"
+              src="Images/userAdmin/database.png"
               alt="image"
             />
             <div className="p-2 text-center">

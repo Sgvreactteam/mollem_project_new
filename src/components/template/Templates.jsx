@@ -87,7 +87,7 @@ function Templates() {
             </p>
             <div className=" relative bg-transparent mt-4 flex justify-center items-center">
               <img
-                src="../../../public/Images/img/Group.jpg"
+                src="Images/img/Group.jpg"
                 className=""
                 alt=""
               />

@@ -38,7 +38,7 @@ function Header() {
       <div className="w-full bg-primary h-14 flex justify-between fixed px-8 py-2  z-[3000]">
         <div className="flex flex-row gap-3 items-center justify-center">
           <button className="w-8 h-8">
-            <img src="../../../public/Images/navbar/Avatar.png" />
+            <img src="Images/navbar/Avatar.png" />
           </button>
           <button className="w-8 h-8 bg-[#ffffff] bg-opacity-20 drop-shadow-lg rounded-full flex justify-center items-center">
             <IoIosNotifications color="white" />
@@ -71,7 +71,7 @@ function Header() {
 
           <div className="pl-8">
             <img
-              src="../../../public/Images/navbar/Logo.png"
+              src="Images/navbar/Logo.png"
               alt="logo"
               className=""
             />
@@ -120,7 +120,7 @@ const NestedDrawer = () => {
               
               <ListItemIcon className="flex items-center justify-center">
                 <img
-                  src="../../../public/Images/sidebar/Vector.png"
+                  src="Images/sidebar/Vector.png"
                   alt="project-image"
                   className="w-4 h-4"
                 />
@@ -166,7 +166,7 @@ const NestedDrawer = () => {
 
               <ListItemIcon className="flex items-center justify-center">
                 <img
-                  src="../../../public/Images/sidebar/Vector.png"
+                  src="Images/sidebar/Vector.png"
                   alt="project-image"
                   className="w-4 h-4"
                 />
@@ -209,7 +209,7 @@ const NestedDrawer = () => {
 
               <ListItemIcon className="flex items-center justify-center">
                 <img
-                  src="../../../public/Images/sidebar/database.svg"
+                  src="Images/sidebar/database.svg"
                   alt="project-image"
                   className="w-4 h-4"
                 />
@@ -227,7 +227,7 @@ const NestedDrawer = () => {
 
             <ListItemIcon className="flex items-center justify-center">
               <img
-                src="../../../public/Images/sidebar/project.svg"
+                src="Images/sidebar/project.svg"
                 alt="project-image"
                 className="w-4 h-4"
               />
@@ -244,7 +244,7 @@ const NestedDrawer = () => {
 
             <ListItemIcon className="flex items-center justify-center">
               <img
-                src="../../../public/Images/sidebar/calculator.svg"
+                src="Images/sidebar/calculator.svg"
                 alt="project-image"
                 className="w-4 h-4"
               />
@@ -260,7 +260,7 @@ const NestedDrawer = () => {
 
             <ListItemIcon className="flex items-center justify-center">
               <img
-                src="../../../public/Images/sidebar/report.svg"
+                src="Images/sidebar/report.svg"
                 alt="project-image"
                 className="w-4 h-4"
               />
@@ -276,7 +276,7 @@ const NestedDrawer = () => {
 
             <ListItemIcon className="flex items-center justify-center">
               <img
-                src="../../../public/Images/sidebar/support.svg"
+                src="Images/sidebar/support.svg"
                 alt="project-image"
                 className="w-4 h-4"
               />
@@ -292,7 +292,7 @@ const NestedDrawer = () => {
 
               <ListItemIcon className="flex items-center justify-center">
                 <img
-                  src="../../../public/Images/sidebar/database.svg"
+                  src="Images/sidebar/database.svg"
                   alt="project-image"
                   className="w-4 h-4"
                 />

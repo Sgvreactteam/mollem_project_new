@@ -55,7 +55,7 @@ function Login() {
               <button className="absolute top-16 left-72 bg-primary text-white px-4 py-2 rounded-xl text-lg" onClick={languageChangeHandler}>Change Language</button>
         <div className="px-28 my-5">
           <img
-            src="../../../public/Images/loginLogo.svg"
+            src="Images/loginLogo.svg"
             alt="logo"
             className=""
           />
