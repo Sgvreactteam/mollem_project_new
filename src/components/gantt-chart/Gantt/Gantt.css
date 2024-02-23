@@ -1,0 +1,10 @@
+.gantt-container {
+  height: calc(100vh - 50px - 200px);
+}
+
+.custom-task-bar {
+  background-color: #e7bf1e; 
+}
+.custom-gantt-container {
+  background-color: #df2626; /* Set your desired background color */
+}

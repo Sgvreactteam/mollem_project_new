@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { useLanguage } from "../../context/LanguageContext";
+import GantApp from "../gantt-chart/GantApp";
 function UserAdmin() {
   const { language, toggleLanguage } = useLanguage();
   return (
@@ -11,6 +12,7 @@ function UserAdmin() {
         </div>
         <div className="absolute bottom-0 inset-x-1/3 w-1/4 h-1 bg-gradient-to-r from-white via-green-600 to-transparent"></div>
       </div>
+      <GantApp/>
       <div className="flex sm:flex-row flex-col gap-4 md:gap-4 h-[calc(100%-6rem)] justify-center items-center">
         <Link>
           <div className="max-w-sm mx-auto bg-white rounded-md overflow-hidden shadow-md flex flex-col justify-center items-center">
